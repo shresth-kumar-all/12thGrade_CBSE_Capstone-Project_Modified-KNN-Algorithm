@@ -1,0 +1,65 @@
+Name,Action,Fictional,Superhero,Tragedy,Drama,Crime,Thriller,Horror,Romance,Smut,Comedy,Sports
+Harry Potter,70,95,5,40,80,10,60,15,30,5,25,2
+Percy Jackson & the Olympians,75,92,6,35,70,15,65,10,20,4,30,3
+The Trials of Apollo,80,90,7,30,65,20,70,12,15,3,28,4
+The Hobbit,60,94,3,25,75,5,50,10,20,2,20,1
+Twilight,20,85,2,50,70,5,25,7,95,6,15,1
+The Hunger Games,85,90,4,30,75,20,80,10,15,3,12,2
+Divergent,80,88,5,35,70,15,75,8,20,4,18,3
+A Song of Ice and Fire,90,95,3,60,85,25,85,20,10,2,10,1
+The Maze Runner,85,90,4,30,65,20,75,12,15,3,15,2
+The Chronicles of Narnia,65,92,2,40,75,10,50,10,25,5,20,1
+The Mortal Instruments,70,90,6,35,70,15,65,15,30,4,25,2
+The Wheel of Time,80,95,3,50,85,20,70,10,15,2,10,1
+The Shadowhunter Chronicles,75,90,5,40,80,15,60,12,20,3,22,2
+The Lord of the Rings,85,95,2,60,90,10,75,10,15,2,15,1
+The Witcher,80,92,4,50,85,20,80,15,10,3,12,1
+The Dark Tower,75,90,3,40,80,15,85,20,10,2,10,1
+The Twilight Saga,20,85,2,50,70,5,25,7,95,6,15,1
+The Inheritance Cycle,70,92,3,40,75,10,60,10,20,4,18,2
+The Kingkiller Chronicle,80,95,2,50,85,15,70,10,15,3,12,1
+His Dark Materials,65,90,3,40,80,10,55,12,25,5,20,2
+The Earthsea Cycle,60,95,3,40,80,10,50,10,20,5,15,1
+The Belgariad,70,92,4,30,75,15,60,12,25,4,20,2
+The Foundation Series,85,95,2,25,70,20,65,7,10,3,12,1
+The Discworld Series,50,90,1,20,65,5,30,5,15,2,95,1
+The Broken Earth Trilogy,75,92,3,50,85,15,70,10,20,4,18,2
+The Stormlight Archive,80,95,4,40,90,20,75,12,15,3,22,1
+The Red Rising Saga,85,90,5,35,80,25,80,10,10,2,15,2
+The Kushiel's Legacy Trilogy,40,85,2,60,90,10,50,7,95,6,20,1
+The Malazan Book of the Fallen,90,95,3,50,85,25,85,15,10,3,10,1
+The Riftwar Saga,70,92,4,30,75,15,60,10,20,5,18,2
+The Outlander Series,15,20,2,50,85,5,25,5,95,4,20,2
+The Dune Saga,85,95,3,30,70,20,75,10,15,3,12,2
+The Shannara Chronicles,75,90,4,35,70,15,65,12,25,4,20,2
+The Vampire Chronicles,40,85,2,60,90,10,50,95,20,6,15,1
+The Wheel of Time,80,95,3,50,85,20,70,10,15,2,10,1
+The Inheritance Trilogy,70,92,3,40,75,10,60,10,20,4,18,2
+The Chronicles of Amber,65,90,2,40,80,10,55,12,25,5,20,2
+The Temeraire Series,60,92,3,30,75,15,65,10,20,4,18,2
+The Mistborn Trilogy,80,95,4,40,90,20,75,12,15,3,22,1
+The Gentleman Bastard Series,75,90,3,50,85,25,80,10,10,2,15,2
+The Powder Mage Trilogy,75,90,3,40,85,20,70,10,15,4,18,2
+The Chronicles of Prydain,60,92,2,30,75,10,55,12,25,5,20,1
+The Black Company,80,95,4,50,90,25,75,15,10,3,22,1
+The Riyria Revelations,70,90,3,40,80,15,60,10,20,4,18,2
+The Farseer Trilogy,75,92,3,50,85,20,70,10,15,4,18,2
+The Liveship Traders Trilogy,65,90,2,40,80,10,55,12,25,5,20,1
+The Rain Wild Chronicles,60,92,3,30,75,10,55,10,20,4,18,2
+The Tawny Man Trilogy,80,95,4,50,90,25,75,15,10,3,22,1
+The Realm of the Elderlings,70,90,3,40,80,15,60,10,20,4,18,2
+The First Law Trilogy,75,92,3,50,85,20,70,10,15,4,18,2
+The Age of Madness Trilogy,65,90,2,40,80,10,55,12,25,5,20,1
+The Drenai Saga,60,92,3,30,75,10,55,10,20,4,18,2
+The Elric Saga,80,95,4,50,90,25,75,15,10,3,22,1
+The Dragonriders of Pern,70,90,3,40,80,15,60,10,20,4,18,2
+The Riftwar Cycle,75,92,3,50,85,20,70,10,15,4,18,2
+The Codex Alera,65,90,2,40,80,10,55,12,25,5,20,1
+The Dresden Files,60,92,3,30,75,10,55,10,20,4,18,2
+The Iron Druid Chronicles,80,95,4,50,90,25,75,15,10,3,22,1
+The Kingkiller Chronicle,70,90,3,40,80,15,60,10,20,4,18,2
+The Stormlight Archive,75,92,3,50,85,20,70,10,15,4,18,2
+Agatha Christie - Hercule Poirot,20,10,0,40,85,95,90,5,15,0,10,0
+Dan Brown Books,30,15,0,25,70,85,95,10,10,0,5,0
+Shiva Trilogy,50,90,0,60,80,10,55,5,25,0,15,0
+Vikramaditya Veergatha Series,40,85,0,50,75,15,60,10,20,0,10,0
