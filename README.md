@@ -11,15 +11,23 @@ This is a class 12 AI capstone project named "Strategic Tagging and Fandom Unifi
 > *(the above may or may not work for an OS other than Windows. Please get all the requirements to avoid unexpected errors)*
 
 ## Description:
-*The KNN algorithm works primarily on the n-dimensional distance formula to check the k no. of data points closest to it and return the mode statistic of their property. Our model modifies this idea by setting k to the number of elements in a dataset to include all the data points for consideration and then instead of showing mode, we tell the model to rank the most relevent (relevence here means the distance from the anchor point created by the user's preferneces) data point highest in order to rank each data point in order of relevence which is then accessed by the user interface to display the data points in decreasing order of relevence.
+The KNN algorithm works primarily on the n-dimensional distance formula to check the k no. of data points closest to it and return the mode statistic of their property. Our model modifies this idea by setting k to the number of elements in a dataset to include all the data points for consideration and then instead of showing mode, we tell the model to rank the most relevent (relevence here means the distance from the anchor point created by the user's preferneces) data point highest in order to rank each data point in order of relevence which is then accessed by the user interface to display the data points in decreasing order of relevence.
 
 * **Setup:**
 *   -Go to **Data**
 *   -add entries in the format provided in the file
-*   -add the images of standardized size to the relevent folder in **UI_Assets**
+*   -add the images of standardized size to the relevent folder in **UI_Assets**(1)
 
 * **For user:**
 *   Selecet the type of content on the button pallete on the left
 *   Use the sliders to set preferences
 *   hit the search button below the last slider
 *   use the **prev** and **next** buttons to browse the recommendations
+
+*   (1) to standardize the images a program is provided in **UI_Assets** called converter.py, in this program, replace the path in line 2 with the image which is to be resized. In line 6 enter the path of the folder it belongs to:
+*   ->0=Movies
+*   ->1=Tv Shows
+*   ->2=Books
+*   ->3=Anime
+*   ->Comics
+*   and at the end of the path put `\\<Enter name of the img as saved in the dataset csv>.PNG` then run to resize the image.
