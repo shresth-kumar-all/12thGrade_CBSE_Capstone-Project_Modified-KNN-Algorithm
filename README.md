@@ -19,10 +19,10 @@ The KNN algorithm works primarily on the n-dimensional distance formula to check
 *   -add the images of standardized size to the relevent folder in **UI_Assets**(1)
 
 * **For user:**
-*   Selecet the type of content on the button pallete on the left
-*   Use the sliders to set preferences
-*   hit the search button below the last slider
-*   use the **prev** and **next** buttons to browse the recommendations
+*   -Selecet the type of content on the button pallete on the left
+*   -Use the sliders to set preferences
+*   -hit the search button below the last slider
+*   -use the **prev** and **next** buttons to browse the recommendations
 
 *   (1) to standardize the images a program is provided in **UI_Assets** called converter.py, in this program, replace the path in line 2 with the image which is to be resized. In line 6 enter the path of the folder it belongs to:
 *   ->0=Movies
