@@ -10,7 +10,7 @@ This is a class 12 AI capstone project named "Strategic Tagging and Fandom Unifi
 
 > *(the above may or may not work for an OS other than Windows. Please get all the requirements to avoid unexpected errors)*
 
-## Description:
+## Description
 The KNN algorithm works primarily on the n-dimensional distance formula to check the k no. of data points closest to it and return the mode statistic of their property. Our model modifies this idea by setting k to the number of elements in a dataset to include all the data points for consideration and then instead of showing mode, we tell the model to rank the most relevent (relevence here means the distance from the anchor point created by the user's preferneces) data point highest in order to rank each data point in order of relevence which is then accessed by the user interface to display the data points in decreasing order of relevence.
 
 * **Setup:**
@@ -30,4 +30,15 @@ The KNN algorithm works primarily on the n-dimensional distance formula to check
 *   ->2=Books
 *   ->3=Anime
 *   ->Comics
-*   and at the end of the path put `\\<Enter name of the img as saved in the dataset csv>.PNG` then run to resize the image.
+*   at the end of the path put `\\<Enter name of the img as saved in the dataset csv>.PNG` then run to resize the image.
+
+## Conclusion
+The project successfully works as a recommendation system, the system is scalable to some extent to a small to medium scale but runs fast. The KNN modified algorithm will be extracted form this project and made into a raw version in the future.
+(Our project got 50/50 btw)
+
+## Credits:
+*    **Navneeth** (Video Poduction)
+*    **Nivan** (Data Handling)
+*    **Saanidhya** (UI Design)
+*    **Shresth** (Programmer/Code Architect)
+*    **Yuvan** (programmer + documentation)
